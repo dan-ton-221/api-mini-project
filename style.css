@@ -1,0 +1,25 @@
+body {
+    background-color: salmon;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#question {
+    color: aliceblue;
+}
+
+#category {
+    color: aliceblue;
+}
+
+#answer {
+    color: aliceblue;
+}
+
+#show-answer {
+    font-weight: bolder;
+    color: salmon;
+    width: 200px;
+    height: 50px;
+}
